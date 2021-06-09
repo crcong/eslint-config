@@ -1,0 +1,20 @@
+{
+  "name": "@crcong/eslint-config-monorepo",
+  "version": "0.1.0",
+  "description": "eslint config",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "author": "crcong",
+  "scripts": {
+    "release": "lerna publish --conventional-commits"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "lerna": "^4.0.0"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "@crcong/eslint-config-basic",
+  "version": "0.1.0",
+  "description": "eslint config",
+  "author": "crcong",
+  "main": "index.js",
+  "keywords": [
+    "eslint"
+  ],
+  "scripts": {
+    "lint": "eslint . --config=index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.28.0"
+  }
+}
