@@ -1,6 +1,6 @@
 {
   "name": "@crcong/eslint-config-typescript",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a ts eslint config",
   "author": "crcong",
   "keywords": [
@@ -20,7 +20,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@crcong/eslint-config-basic": "^0.1.0",
+    "@crcong/eslint-config-basic": "^0.1.1",
     "@typescript-eslint/eslint-plugin": "^4.26.1",
     "@typescript-eslint/parser": "^4.26.1"
   },
