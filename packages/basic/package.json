@@ -1,6 +1,6 @@
 {
   "name": "@crcong/eslint-config-basic",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "eslint config",
   "author": "crcong",
   "main": "index.js",
