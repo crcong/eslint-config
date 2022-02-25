@@ -8,7 +8,7 @@
     "eslint"
   ],
   "scripts": {
-    "lint": "eslint . --config=index.js"
+    "lint": "eslint ../vue/index.js --config=index.js"
   },
   "files": [
     "index.js"
@@ -24,10 +24,10 @@
     "eslint-config-standard": "^16.0.3",
     "eslint-plugin-import": "^2.23.4",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^5.1.0"
+    "eslint-plugin-promise": "^6.0.0"
   },
   "devDependencies": {
-    "eslint": "^7.28.0"
+    "eslint": "^8.9.0"
   },
   "gitHead": "e8986f91cc3d2d42c63042846f435a2a378c3114"
 }

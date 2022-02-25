@@ -1,0 +1,29 @@
+{
+  "name": "@crcong/eslint-config-vue",
+  "version": "0.1.5",
+  "description": "vue eslint config",
+  "author": "Ruicong <crcong@foxmail.com>",
+  "homepage": "https://github.com/crcong/eslint-config#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crcong/eslint-config.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/crcong/eslint-config/issues"
+  },
+  "dependencies": {
+    "@crcong/eslint-config-typescript": "^0.1.5",
+    "eslint-plugin-vue": "^8.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.9.0"
+  }
+}
