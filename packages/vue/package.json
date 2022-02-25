@@ -16,6 +16,9 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "bugs": {
     "url": "https://github.com/crcong/eslint-config/issues"
   },
@@ -25,5 +28,6 @@
   },
   "devDependencies": {
     "eslint": "^8.9.0"
-  }
+  },
+  "gitHead": "39dd3e02a772cb1c89889b508542538b6d046577"
 }
