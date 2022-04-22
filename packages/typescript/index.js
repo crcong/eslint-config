@@ -10,5 +10,6 @@ module.exports = {
     '@typescript-eslint/no-redeclare': 'error',
     '@typescript-eslint/explicit-module-boundary-types': 'off',
     '@typescript-eslint/explicit-function-return-type': 'off',
+    '@typescript-eslint/no-empty-function': 'off',
   }
 }
