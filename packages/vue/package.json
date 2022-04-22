@@ -1,6 +1,6 @@
 {
   "name": "@crcong/eslint-config-vue",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "vue eslint config",
   "author": "Ruicong <crcong@foxmail.com>",
   "homepage": "https://github.com/crcong/eslint-config#readme",
